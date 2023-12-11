@@ -1,7 +1,7 @@
 {
   "name": "wasm_js",
   "version": "0.1.0",
-  "description": "ROS 2 middleware JS package for the browser.",
+  "description": "ROS2WASM package to enable communication on the browser with JavaScript",
   "main": "src/rosMain.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
