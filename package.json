@@ -1,0 +1,27 @@
+{
+  "name": "wasm_js",
+  "version": "0.1.0",
+  "description": "ROS 2 middleware JS package for the browser.",
+  "main": "rosMain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihuicatl/wasm_js.git"
+  },
+  "keywords": [
+    "ros",
+    "ros2",
+    "middleware",
+    "js",
+    "wasm",
+    "webassembly"
+  ],
+  "author": "Isabel Paredes",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ihuicatl/wasm_js/issues"
+  },
+  "homepage": "https://github.com/ihuicatl/wasm_js#readme"
+}
